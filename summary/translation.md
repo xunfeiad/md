@@ -8,7 +8,7 @@ communicate // v. 传达；沟通
 significant // adj. 重要的；有意义的
 optimal // adj. 最理想的；最佳的
 briefly	// adv. 简短地；简单的
-denote // vt. 表示；象征
+denote // vt. 表示； 象征
 exhausted // adj. 用完的；筋疲力尽的
 fundamental	// adj. 基本的；根本的；重要的
 compromise // n.折衷
