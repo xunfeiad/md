@@ -799,7 +799,7 @@ devote // vt. 致力于；奉献给；把...专用与
 in terms of // 就...而言；在...方面
 nonetheless // adv. 尽管如此
 rendezvous // n. 约会；汇合点; vi. 汇合；集合
-obligate // v. 有负使命；强制；预留 adj.有义务的；必要的；
+obligate // v.有负使命；强制；预留 adj.有义务的；必要的；
 ```
 
 ```rust
