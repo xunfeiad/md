@@ -1,5 +1,5 @@
-```go
 certain // adj. 确定的；某些
+```go
 absence // n. 缺席；缺乏
 inject // v. 注射；注入
 primarily	 // adv. 主要地；起初地；
@@ -220,7 +220,7 @@ symmetric //adj. 对称的
 inherently	// adv. 本质上
 differentiate // 区分
 // differentiate	between
-make sense for n // 对。。有意义
+make sense for ... // 对。。有意义
 sloppy // adj. 马虎
 shift	// v. 调迁； 移
 obey	// v. 遵守
@@ -772,12 +772,34 @@ notion // n. 观念；概念；想法；主张
 several // pron. 若干；adj. 几个的；若干的；各自的
 provenance // n. 出处；起源
 uncontroversial // adj. 非争议性的；未引起争论的
-retionalise // v. 合理化
-confirm // v. 使一致；遵从
+retionalise // v. 合理化 
 ongoing // adj. 进行的；不断发展的
 seek to // 追求；争取；设法
 mindful // adj. 深切注意的；记住的
 representation // n. 陈述；表现；
+conversely // adv. 相反的
+apparent // adj. 明显的；表面的;
+imposed // v. 强加；强迫；征收；
+relax // v. 休息；放松；使放松；放宽
+coupled with // 接在一起；耦合；
+subsequent // adj. 随后的；后来的；
+applicable // adj. 合适的；适用的；可应用的
+differ // vi. 不同；有区别
+among // prep. 在...之中； ...之一
+transformation // n. 转型；转化；改造
+sequentially // adv. 顺序地；继续地
+extent // n. 长度；宽度；大小；范围；程度
+along with // 与...在一起；在...以外；沿着；
+first off // 首先；起先；开始时
+out of the way // 不寻常地；
+broadest // adj. 宽广的；清楚无误的；明显的
+sake // n. 理由；缘故；目的；利益
+specifically // adv. 特别地；明确地；具体地
+devote // vt. 致力于；奉献给；把...专用与
+in terms of // 就...而言；在...方面
+nonetheless // adv. 尽管如此
+rendezvous // n. 约会；汇合点; vi. 汇合；集合
+obligate // v. 有负使命；强制；预留 adj.有义务的；必要的；
 ```
 
 ```rust
