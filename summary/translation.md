@@ -31,7 +31,7 @@ leverage // v. 补充
 transient // adj. 短暂的； 
 diminish	// vt. 减少；减损 vi. 变少
 pragmatic // adj 实际的
-intent	//adj. 热切的；专心的；决心的  n. 意图;目的
+intent	// adj. 热切的；专心的；决心的  n. 意图;目的
 customize  // vt. 定制
 refer to // 涉及；指的是；提及；参考
 respective // 分别的；各自的
