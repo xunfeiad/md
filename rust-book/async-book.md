@@ -105,8 +105,29 @@ trait Future{
 ```
 
 ## 2. 自定义 `Task`
+### 2.1 Task由 `Waker`唤醒
+`future`不能再第一时间完成是很常见的, 如果该情况发生, `future`需要被保证再次被`polled`以取得一些进展. 这就是 `Waker`类型要做的事。
 
+每次 `future`被 `polled`后,它就被视为一个 `task`. `Task`是最顶级的 `futures`会被提交到执行器中.
+
+`Waker`有一个 `wake`方法用来告诉执行器，与之关联的任务需要被唤醒。当 `.wake()`被调用后, 执行器就知道与该`Waker`相关的任务已经准备好了取得进步,然后该`future`就会被再次`polled`.
+
+`Waker`也实现了 `Clone`，所以`Waker`可以被完全复制和存储.
+
+让我们使用 `waker`来实现一个简单的 `time future`
+
+### 实现 `Timer`
+
+```rust
+
+```
 
 ## 3. 自定义 `Executor`
 
 ## 4. TODO
+
+
+```rust
+
+
+```

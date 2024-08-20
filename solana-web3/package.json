@@ -1,0 +1,12 @@
+{
+    "name": "solana-web3",
+    "author": "xfhd520@126.com",
+    "dependencies": {
+        "@solana-developers/helpers": "^2.4.0",
+        "@solana/web3.js": "^1.95.2",
+        "axios": "^1.7.3",
+        "dotenv": "^16.4.5",
+        "esrun": "^3.2.26",
+        "typescript": "^5.5.4"
+    }
+}
