@@ -875,7 +875,21 @@ unified // adj. 统一的
 examine // vt. 检查; 调查; 考试; 仔细观察; vi.检查; 调查
 metric // n. 标准;度量
 nevertheless // adv.然而；不过；仍然  conj.然而；不过
-
+horizontal // adj. 水平的; 横的 n. 水平线;
+abuse // n. 滥用; 恶习 v.滥用; 虐待
+pass through // 穿过;透过;流过;经历
+mitigate // vt. 减轻;缓和
+drain // vt. 排干; 喝光; 耗尽 n. 消耗
+digest // n. 摘要; v. 消化; 理解
+pragmatic // adj. 实用注意的；实际的
+in addition to // 除...之外
+counterpart // n. 对应物；相似之物
+ubiquitous // adj. 到处存在的
+concise // adj. 简要的；简明的;
+congregate // v. 使集合; 聚集; 集合 adj. 集体的
+brittle // adj. 易碎的; 脆弱的
+clause // n. 条款; 从句
+analogous // adj. 类似的
 
 在同一个函数内嵌套一个函数，子函数内无法访问外部函数的参数，变量，但是可以访问函数的
 `trait` `impl`
@@ -2207,6 +2221,7 @@ regexp = new **RegExp**(**pattern**[, **flag**]);
 
 设置了g修饰符的正则表达式在完成一次成功匹配后不会停止，而是继续找到所有可以匹配到的字符。
 ```
+## 什么是`SNI`
 
 ## 微服务
 
