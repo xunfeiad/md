@@ -26,7 +26,6 @@ slightly	// adv. 稍微
 boilerplate // n. 样板文件
 introduce  // vt. 介绍，引进
 manual	// adj. 手工的
-intergrate // v. 整合;结合;adj. 完整的;组合的
 leverage // v. 补充
 transient // adj. 短暂的;
 diminish	// vt. 减少;减损 vi. 变少
@@ -141,7 +140,7 @@ invocation // 调用
 fence // 栏栅
 prime	// 最典型的
 subtle	// 微妙;微妙的
-convention // n. 约定
+convention // n. 约定, 公约
 a broad sense // 广义上;泛指
 drawback	// n. 缺点;
 constrain	// 强迫;限制
@@ -150,7 +149,6 @@ influence // v. 对..产生影响
 normalize //v. 规范
 metioned // adj. 所提及的
 metion //n. 概念
-convention	// n. 公约
 manifest // n. 表现 v.
 registry	//n. 注册处，注册中心
 alternative	// n. 替代品
@@ -172,7 +170,6 @@ coordinate // v. 统筹
 mutually	// adv. 相互
 identifier	// n. 标识符
 punctuation	// n. 标点符号
-individual	// adj. 单独的
 navigation // n. 导航
 ambiguity 	// n. 模糊;歧义
 reasonably	// adv. 相当地
@@ -231,7 +228,6 @@ sound	// adj. 健全的
 trivial	// adj. 小的
 omit	// v. 省略
 validity	// n. 有效性
-separate // adj. 单独的
 canonical	// adj. 典型的
 synchronize	// 同步
 volatile // n. 易变
@@ -290,7 +286,6 @@ outstanding // adj. 优秀的;突出的;未支付的;未完成的
 demonstrate // vt. 证明;演示;示范;vi. 示威
 trivially // adv. 琐细的;无能地;平凡地
 imporper  // adj. 不合适的;错误的;不道德的
-coerce // vt. 强制;威胁
 inspire // v. 鼓舞;激发;产生;赋予...灵感
 hint  // n. 暗示;v. 暗示;示意
 tier // n. 排，行，层， 等级 v.层层排列
@@ -320,7 +315,6 @@ sake // n. 理由;缘故;目的;利益
 interrupt	// v. 打断;打扰;中断;n.中断
 liberal // adj. 慷慨的;大方的;开明的;n. 自由主义者;开明的人
 region // n. 地区;地域
-interprete // v. 解释
 multiplexed	// adj. 多路复用的;多路的
 intermixed	// v. 混合;混杂
 instrument // n. 工具  v. 装备
@@ -331,7 +325,6 @@ snippet // n. 小碎片;片段;摘录
 explicitly // adv. 显式地;清楚地;
 implicitly	// adv. 隐式地;
 circumstance	// n. 情况;条件
-coercion	// n. 强制
 far-reaching	// adj. 影响深远的
 implication // n. 含义
 silently	// 默默地;静默地
@@ -339,7 +332,6 @@ facilitate	// v. 促进
 inherent	// adj. 固有的;内在的
 workload	// n. 工作量
 mature  // adj. 成熟的;考虑周到的;v. 成熟;长成
-constraint // n. 限制
 mixture	// n. 混合;
 novel // adj. 新奇的
 firm // adj.adv 坚定的;稳固的;结实的
@@ -375,9 +367,6 @@ bandwidth // n. 带宽
 dive to // 深入研究
 introduce // v. 介绍;引进;提倡;采用
 concern // n. 关心  vt.涉及，影响
-inadvertently // adv. 不注意地;疏忽地
-alleviate // 减轻;使... 缓和
-fulfill	// vt. 完成;履行
 facility	// n. 机制;设备;才能
 transition	// n. 转变;过渡
 directive // n. 指令 adj.指导的;指挥的
@@ -388,15 +377,15 @@ procedural	// 程序的
 complete	// adj. 完整的;完成的
 attach	 // v. 附上;使依附;
 inverse  // adj. 倒转的;相反的;n. 倒数;相反的事物
-transaction // n. 交易
+transaction // n. 交易; 事务
 indepentent // adj. 独立的;自主的;独自的
 vulnerable  // adj. 有弱点的;脆弱的
 consensus  // n. 一致;共识
 distinction // n. 差别;对比
 contrast  // n. 对比;差别;v. 对比
 rotation // n. 旋转;循环
-ledger  // n. 明细账
 decentralize  // v. 分散
+currency // n. 货币; 流通
 cryptocurrency  // n. 加密货币
 encounter  // n. 遭遇;v. 遭遇
 trade // 贸易
@@ -439,7 +428,6 @@ mass // n. 大量;众多;adj. 大规模的;群众的;v. 集中
 adoption // n. 采用;采纳;收养
 utilize  // 利用
 interoperable // adj. 彼此协作的
-flaw  // n.v 瑕疵;缺陷;使破裂
 instantiate // v. 示例。说明
 whenever // adv. 无论何时;conj.每当
 steal // v. 偷;窃取;n. 窃取
@@ -483,6 +471,7 @@ innovation // n. 创新;革新
 placeholder // n. 位置标志符;占位符
 transmission // n.传输;传播;播送;
 interconnect // v. 使互相连接;连接
+promise // n. 诺言; 预示; 约定; v. 允诺; 发誓; 答应
 promote // vt. 促进;提升;发起
 datagram // n. 数据包;数据报
 interconnect // v. 使互相连接;连接
@@ -497,7 +486,6 @@ broadly // adv. 概括地;大体上
 rapid // adj. 短时间发生的;急速的;迅速的 n.急流;湍急
 reinterpret // vt. 重新解释
 bitwise	// n. 逐位;按位
-
 downcase // adj.向下看的
 fragmentation // n. 分裂;破碎;
 shrink // vi.vt.n 收缩;退缩;萎缩
@@ -586,7 +574,6 @@ conjunction // n. 结合;关联;同时发生
 cascade // n. 瀑布;瀑布似的留下
 perferred // adj. 首选的;有优先权的
 precede // vt. 在...前面;先于;vi. 在前面;领先
-constraints // n. 强制;被约束;拘束
 responsibility // n. 责任;职责
 duplicate // n.副本;v. 复制;adj. 完全一样的;复制的
 generalize // v.概括;归纳;使一般化
@@ -596,7 +583,6 @@ typically // adv. 典型地;代表性的;通常;一般;不出所料的
 occasionally // adv. 偶尔的
 under the hook // 内部机制;底层原理
 logically // adv. 符合逻辑的;逻辑上地
-ultimately // adv. 最终;最后
 sentinel // n. 哨兵;标记符号
 well-aligned // 有序排列
 presumably // adv. 大概;可能
@@ -608,11 +594,11 @@ disrupt // vt. 干扰;打断;妨碍
 steady // adj. 稳定的;稳固的;坚定的;v. 使稳固;
 inflow // n. 流入;流入量;
 speed up // 加快速度
-threshold // n. 门槛;开端;界限;入口
+threshold // n. 门
 on the other hand // 另一方面
 bason on // 基于;以...为依据
 plain  // adj. 清楚的;简单的;坦白的;纯的  adv.完全的;纯粹的
-accommodate // v. 适应;调节
+accommodate // v. 使适应;调节
 vary // v. 改变;变化;使多种多样
 upside // n. 优势;潜力
 tradeoff // n. 交易;交换
@@ -620,29 +606,27 @@ furthermore // adv. 而且;此外
 eager // adj. 渴望的;急切的
 bloat // vt. 使肿胀;adj. 肿胀的;n. 膨胀
 instruction // n. 指令;说明;教诲
-vice versa // adv. 反过来也是一样的
 erasure // n. 擦掉;抹掉
 specialize // v.专供
 inhibit // v. 抑制;阻止;使不能
 straight-forward // adj. 易懂的;笔直的;坦率的
-representation // n. 称述;表现;表示法
-progessive // adj. 先进的;前进的;渐进的
-inference // n. 推理;推断;结论
+representation // n. 作为...的代表··
+progessive // adj. 逐渐的；渐进的
+inference // n. 推断；推论；推理；
 account for // vt. 对...负责;导致;引起
 exceed // vt. 超过;超出;vi.领先
-subtly // adv. 敏锐地;巧妙地;精细地;
-responsibility // n. 责任;责任心;职责
-moticate // vt. 激发;给予动机
+subtly // adv. 微妙的；精巧的；巧妙的；
+responsibility // n. 职责；责任
+motivate // vt. 激发;给予动机
 biased // adj. 有偏见的;
 pseudo // adj. 假的;冒充的
 precondition // n. 先决条件;前提;v. 预先准备
-device // v. 设计;发明
-sequential // adj. 连续的
+device // n. 装置; 器械
 precision // n. 精确;紧密度 adj. 精确的
 decimal // adj. 小数的;十进位的 n. 小数
 digit // n. 数字;位数;手指
 describe // vt. 描述;说成;形容
-correspond // v. 符合;对应;通信
+correspond // v. 相称；相类似；相当s
 corresponding // adj. 相当的;相应的;一致的
 fractional // adj. 微不足道的;短片的;分数的;小数的
 especially // adv. 特别;尤其
@@ -653,12 +637,12 @@ up to // 胜任;直到;多达;该由...决定
 inclusive // adj. 包含...在内的;
 physical // adj. 物质的;身体的;物理的
 geometric // adj. 几何学的;几何学图形的
-appriximation // n. 接近;近似;近似值
+approximation // n. 接近;近似;近似值
 retrieve // vt. 恢复;挽回;取回 vi. 找回猎物;n. 恢复;取回;
-discrepancy // n. 差异;不一致;分歧
-propagate // v. 繁殖;增值;传播;传送
+discrepancy // n. 不一致；差异；出入
+propagate // v. 繁殖;增值;传播，散播;宣传
 mathematic // adj. 数学的;精确的;可能性很少的
-compliate // v. 使复杂化;adj. 复杂的
+complicate // v. 使复杂化;adj. 复杂的
 calculate // v. 计算;估计;考虑;推测;计划;指望
 boundary // n. 边界;分界线
 underflow // n.潜流;下溢;下线溢位
@@ -666,7 +650,7 @@ processor // n. 加工者;处理器
 historical // adj. 与历史有关的
 reduce // v. 减少;缩小;简化;还原
 arrange // vi. 整理;安排;计划;vi. 协商;计划
-anticipate // vt. 预期;提前使用;抢...前
+anticipate // vt. 预期;采取行动来防止
 currency // n. 货币;流通
 bizarre // adj. 奇异的;怪诞的
 lack // n.缺乏;无;v.缺乏;不足
@@ -680,8 +664,7 @@ octet // n. 八位位组
 escape // n. 转义;
 backslash // n. 反斜线符号(\)
 fuzz up // v. 使模糊
-fuzz // v. 起毛;使变得模糊不清
-precede // vt. 在...之间;先于;vi. 在前面;领先
+fuzz // v. 起毛;使变得模糊不清··
 sequence // n. 顺序;连续;次序;一系列 vt. 按顺序排好
 confuse // vt. 使困惑;使混乱;混淆
 in general // 一般来说
@@ -889,14 +872,60 @@ concise // adj. 简要的；简明的;
 congregate // v. 使集合; 聚集; 集合 adj. 集体的
 brittle // adj. 易碎的; 脆弱的
 clause // n. 条款; 从句
-analogous // adj. 类似的
-
-在同一个函数内嵌套一个函数，子函数内无法访问外部函数的参数，变量，但是可以访问函数的
-`trait` `impl`
-
-() 是 unit 
-
-
+intercept // n. 截取; 拦截
+sibling // n. 兄弟姐妹
+universal // adj. 普遍的; 通用的; 全体的; n. 通用原理; 普遍原则
+cyclical // adj. 循环的; 周期的
+directory // n. 目录; 指南; adj. 给予指导的
+credential // n. 凭据; adj. 信任的
+consistency // n. 连贯; 一致性; 强度; 硬度
+waterfall // n. 瀑布
+navigation // n. 导航;
+implication // n. 含义; 暗示
+progressively // adv. 前进地; 渐进地; 逐渐的;
+widget // n. 小部件
+persist // v. 坚持; 执意; 继续; 持续
+emulate // 效法; 尽力赶上
+versatile // adj. 多才多艺的；通用的; 多功能的
+tween // adj. 在...中间; adv. 中间地
+motion // n. 移动; 动作; 打手势; v. 运动
+spring // n.春天; 弹; 快速站起
+fade // v. 逐渐消失；
+stateful // adj. 宏伟的; 威严的
+rely upon // v. 依赖; 依靠; 取决于
+stress // n.压力; v.强调,重读
+accomplish // vt. 完成; 实现
+manipulation // n. 操纵;控制;篡改
+desecentent // adj. 下降的; 降落的; 世袭的; n. 后代; 子孙
+commercial // adj. 商业的; n. 商业广告
+academic // adj. 学院的; 学术的; 理论的; n. 学者; 研究
+decade // n. 十年
+advanced // adj. 先进的; 高级的
+undergo // vt. 经历; 遭受
+critique // n. 批评; 批评法; 评论
+throughout // prep. 遍及; 贯穿; adv. 自始自终;到处
+dedicate // vt. 致力于; 献出; 
+consistency // n. 连贯; 一致性; 强度
+prevent ... from ... 阻止
+// Nothing can prevent him from going.
+eschew // vt. 避开; 回避; 戒绝
+generally // adv. 一般地; 通常地; 普遍地;
+advisory // n. 报告
+phenomenon // n. 现象
+stretch // v.n. 伸展; 延展;
+vast // adj. 巨大的；广阔的
+impose // v. 强加 
+violate // v. 违反; 违背；(法律；协议; 原则等)
+at will // 随心所欲的; 自如的
+motivation // n. 积极性； 干劲
+invariant // adj. 不变的
+obligate // adj. 强制性的
+viable // adj. 可以实施的； 可以成功的.
+composition // n. 组合
+expensive // adj. 昂贵的; 代价高的
+plausible // adj. 貌似可信的
+announce // v. 宣布; 宣告; 通告
+optimistic // adj. 乐观的
 ```
 
 ```rust
@@ -916,7 +945,6 @@ rust中引用和指针的区别
 ```python
 原生类型(primitive type) 是编程语言提供的最基础的数据类型。比如字符、整数、浮点数、布尔值、数组、元组、指针、引用、函数、闭包。所有原生类型的大小都是固定的，因此他们可以被分配到栈上。
 ```
-
 ## Fn、FnOnce、FnMut、FnPtr
 
 ```rust
@@ -1164,7 +1192,7 @@ assert_eq!(c, 0b01);
 
 ### 可变借用和不可变借用
 
-* 一个资源内智能有一个可变借用。
+* 一个资源内只能有一个可变借用。
 * 拥有可变借用后就不能有不可变借用
 * 一个资源内可以有多个不可变借用，但拥有不可变借用后就不能有可变借用。
 
@@ -1519,17 +1547,6 @@ assert_eq!(iter.next(), None);
 ```rust
 fn map_while<B,P>(self, preducate: P) -> MapWhile<Self, P>
 where
-
-"$or": {
-    "translation.name": {
-        "$regex": name
-    },
-    "translation.key": {
-         "$regex": key
-     }
-},
-"translation.client": client,
-                        "translation.lang": lang
 ```
 
 ## Option
@@ -1797,7 +1814,7 @@ fn main(){
 }
 ```
 
-`Rust` 在这里使用 “单态化(`monomorphization) ”来执行静态调度。这意味着 `Rust` 将为 `u8` 和 `String` 创建一个特殊版本的 `do_something()`，然后用对这些特殊函数的调用替换。换句话说，Rust 会生成类似这样的代码：
+`Rust` 在这里使用 “单态化(`monomorphization`) ”来执行静态调度。这意味着 `Rust` 将为 `u8` 和 `String` 创建一个特殊版本的 `do_something()`，然后用对这些特殊函数的调用替换。换句话说，Rust 会生成类似这样的代码：
 
 ```rust
 fn do_something_u8(x: u8) {
@@ -2237,4 +2254,24 @@ regexp = new **RegExp**(**pattern**[, **flag**]);
 * 打包、部署和调度
 * 作业管理
 * 单例应用程序
+
+## Rust中的Ordering枚举
+
+Rust标准库中的Ordering枚举提供了不同级别的内存顺序保证，允许开发者根据具体需求选择合适的顺序模型。以下是Rust中可用的内存顺序选项。
+
+### Relaxed
+
+Relaxed提供了最基本的保证，即保证单个原子操作的原子性，但不保证操作间的顺序。这适用于单纯的计数或状态标记，其中操作的相对顺序不影响程序的正确性。
+
+### Acquire和Release
+
+Acquire和Release用于控制操作间的偏序关系。Acquire保证当前线程在执行后续操作前，能看到与之匹配的Release操作所做的修改。它们常用于实现锁和其他同步原语，确保资源在访问前被正确初始化。
+
+### AcqRel
+
+AcqRel结合了Acquire和Release的效果，适用于需要同时读取和修改值的操作，确保这些操作相对于其他线程是有序的。
+
+### SeqCst
+
+SeqCst，或顺序一致性，提供了最强的顺序保证。它确保所有的线程看到相同顺序的操作，使用于需要全局执行顺序的场景。
 
