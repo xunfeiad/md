@@ -1,5 +1,4 @@
-certain // adj. 确定的;某些
-```go
+```
 absence // n. 缺席;缺乏
 inject // v. 注射;注入
 primarily	 // adv. 主要地;起初地;
@@ -64,7 +63,7 @@ distract // vt. 分散;转移
 collapse // v. 倒塌;奔溃;瓦解
 recursive	// adj.递归的;循环的
 reflexivity	// n. 自反性;反身性
-techninal	// adj. 技术的;专业的;工艺的
+technical	// adj. 技术的;专业的;工艺的
 dereference // v. 解引用
 trivial	 // adj. 不重要的;琐碎的
 explicitly	// adv. 明白地;明确地
@@ -441,7 +440,7 @@ guard // v. 看守;守卫;保卫;n. 哨兵;警卫
 robust // adj. 强健的;稳固的;耐用的
 shallow // adj. 浅的;n. 浅处;v.变浅
 roughly // adv. 粗略地;大约;
-capability	// n. 才能;能力;性能;容量
+capability	// n. 能力；才干；水平；
 capacity	// n. 容量;容积;能力;职位;资格·
 cotention  // n. 争论;争辩
 contend  // v. 竞争;斗争;争辩
@@ -675,16 +674,16 @@ plural // adj. 复数的;n.复数
 notation // n. 记号;表示法;注释;记法
 comprise // vt. 构成;包含
 composite // adj. 合成的;复合的 n.合成物;复合材料
-optimize // vt. 使完善;使优化
+optimize // vt. 完善;使优化
+// We need to optimize our use of the existing teachnology.
 proximity // n. 接近;亲近
 rank // n.等级;阶层;排;列  v.排列;分等级;排名
 hence // adv. 因此;从此以后
 minor // adj. 轻微的;较小的;次要的
-constitute // vt. 构成;组成;任命;建立;制定
-variation // n. 变种;变动;变化
+constitute // vt. 被看作;形成,构成;
+variation // n. 变动;变化
 exploit // vt. 剥削;利用;开发;开拓 n.功绩
 multidimensional // adj. 多维的;多面的
-dimensional // 纬度的;次元的;空间的
 statistical // 统计的;统计学的
 consideration // n. 考虑
 accordingly // adv. 因此;相应的;于是
@@ -693,12 +692,12 @@ state // n. 情形;状态;国家;州 v. 称述;说明
 assumption // n. 假定;设想;假装
 measure // n. 措施;量度;尺寸;程度;方法 v.测量;比较
 realize // vt. 实现;了解;意识到;
-factor // n.因素;因子;vt. 把...作为因素包括进去;vi. 作为因素
+factor // n.因素;因子;
 // the determinate factor of our economy is to control inflation. 
 // 经济的决定性因素就是控制通胀
 govern // v. 统治;支配;管理;规定
-phase // vt. 逐步执行;n.相位;方位;局面;阶段
-vacant // adj. 空虚的;空的;
+phase // n. 阶段；时期
+vacant // adj. 空的;空缺的(职位);
 occupy // vt. 占用;占领
 comprehensive // adj. 全面的;广泛的;综合的
 fit into // 适应;符合
@@ -710,18 +709,17 @@ participate // v. 参与;分享
 defect // n.缺点;缺陷;v.背叛
 cumbersome // adj. 笨重的;不方便的
 sensible // adj. 明智的;合情理的;可察觉的;实际的;
-universal // adj. 普遍的;通用的;n.通用原理;普遍原则
+universal // adj. 普遍的；全体的；共同的
 furturemore // adv. 而且;此外
 irrefutable // adj. 不能反驳的;不能回答的;不可否认的
 visibility // 能见度;可见性
 unified // adj. 统一的
 fragment // n. 碎片;片段
-nominal // adj. 名义上的;象征性的;名词性的
-coherence // n. 一致;连贯
+nominal // adj. 名义上的;有名无实的
+coherence // n. 一致性;连贯性
 orphan // n. 孤儿;adj. 孤儿的
 intersection // n. 交集;十字路口;交叉点
-substantial // adj. 大量的;坚固的;实质的 n. 本质;重要部份;实在的东西
-// new economic devolepment policies led to substantial and rapid growth.
+substantial // adj. 大量的,可观的; 基本上的
 assume // vt. 假定;假设;设想;承担
 intrinsic // adj. 内在的;固有的;本质的
 // you have a natural and intrinsic talent and skill 
@@ -730,7 +728,6 @@ compose // vt. 创作;编排;形成
 consequence // n. 结果;后果;重要性;影响
 incredibly // adv. 极其;难以置信的
 rare // adj. 罕见的;珍贵的
-comprehensive // adj. 全面的;广泛的;综合的;理解的
 up to // 直到;多达;该由...决定
 contentious // adj. 好辩的;有争议的
 contradict // vt. 反驳;与...矛盾
@@ -926,10 +923,86 @@ expensive // adj. 昂贵的; 代价高的
 plausible // adj. 貌似可信的
 announce // v. 宣布; 宣告; 通告
 optimistic // adj. 乐观的
+perspective // n. 角度；观点；想法
+in order(for something) to do something  // 为了; 以便
+practically // adv. 几乎,差不多; 实际上
+grammatically // adv. 语法的，语法正确的，符合语法规则的; 
+accurate // adj. 准确的；精确的；正确的
+stand out // 显眼；突出
+recognition // n. 承认；认可；接受
+underpin // v. 支撑；加强；巩固；构成
+interactive // adj. 交互的
+utilize // v. 使用;利用；应用
+sentence // n. 句子
+
+diverse // adj. 多种多样的，形形色色的
+overview // n. 概述，概观
+numberous // adj. 许多的，大量的
+constitute // v. 是，被看作，被视为；形成，构成，组成
+coordinate // v. 协调，使相配合；相配，相称
+substitute // v. 用...代替，代之以；取代，代替；n. 替代品
+// substitute ... for ... 用...代替...
+// ... substitute for ... ...代替...
+abbreviate // v. 缩略，缩写，简称
+restate // v. 重述，重申，重新表述
+occasion // n. 时刻，时候；时机，机会；有时，偶尔
+integrity // n. 正直，诚实；完整
+bundle // n. 束，捆；乱堆，乱塞
+// a bundle of ... 一堆...
+assure // v. 确定地对...说，使确信，让...放心；确保，保障
+// assure sb of sth sb向sth保证
+acknowledge // v. 承认，认可...属实；确认收悉
+// acknowledge someone as something 认为...是...
+// Please acknowledge receipt of this letter
+ensue // v. 接着发生，继而发生，因而产生
+thereafter // adv. 之后，以后
+partway // adv. 部分地；到某种程度；中途地
+naturally // adv. 自然地；天生地；当然；
+material // n. 材料，原料；素材，资料；adj. 重要的；物质的
+stuck // adj. 动不了的；固定的；卡住的；陷入困境的
+pronouce // v. 发音; 宣称，宣布
+overcome // v. 克服，战胜，解决；使受不了
+delegate //  n. 代表; v. 委派
+investigate // v. 调查，审查；
+informative // adj. 提供信息的，增长见闻的
+discipline // n. 纪律，约束
+subsume // v. 将...归入，将...纳入
+crucial // adj. 至关重要的，关键的，决定性的
+truncate // v. 截断
+downside // n. 不利的一面，不利因素
+ease // v. 减轻，减低，缓解；缓缓移动；轻松
+adequate // adj. 足够的，合格的；
+frequent // adj. 频繁发生的，常见的；v. 常去 
+crucial // adj. 至关重要的
+elevatee // v. 抬高，提高；提升，改进
+distillation // n. 提炼
+content // adj. 满足的；知足的; v. 使满足
+alpha // adj. 初期的
+forecast // v. 预测; 预报; n. 预测; 预报
+compress  v. 压缩，压紧
+sentiment n. 观点；意见；看法；情绪
+speech n. 说话能力，说话
+recognition n. 承认；认可
+detection n. 觉察；发现
+measure // v. 量，测量
+
+
 ```
 
 ```rust
+
+## Mac Shortcuts
+### File Management
+* Command+Delete: Move the selected file to the trash
+* Command+ Shift + Delete: Clear trash
+* Command + D: Create a duplicate for file or folder
+### Application Switching
+* Command + Tab: switch to the most recently used applications
+* Command + H: hide the current application window
+* Command + Shift + 3: Capture the entire screen
+* Command + Shift + 4: Capture a selected area of the screen
 #[no_exhaustive]: 表示类型或变体将来可能会添加更多字段或者变体。可以应用在结构体，枚举或者枚举变体上。在rust参考手册7.6 类型系统中
+
 
 声明宏，类函数宏，类属性宏,类派生宏，除了声明宏，其他宏需要创建一个额外的lib.
 ```
@@ -938,6 +1011,7 @@ optimistic // adj. 乐观的
 rust中引用和指针的区别
 引用(Reference): 引用是rust中的一种安全指针。它们通过借用检查器来保证安全性，确保在整个生命周期内指向的值都是有效的。
 引用分为共享引用(`&T`) 和 可变引用 (`&mut T`)，共享引用允许多个引用同时指向同一个值，但是不允许修改该值，可变引用只允许一个引用指向某个值。
+
 
 指针(Pointer): 指针是rust中的一种不安全的指针。它们没有生命周期的保证，也不受借用检查器的保护。指针分为 常量指针(`*const T`) 和 可变指针(`*mut T`), 常量指针和可变指针都可以指向任意的内存地址，但是解引用它们是不安全的操作，需要在 unsafe块中进行。
 ```
@@ -2183,7 +2257,6 @@ fn main() {
 
 ## rust中`String`是如何存储`char`的
 
-1. 每个 `char`调用其方法`len_utf8()`来确定`UTF-8`表示的字节数
 2. 使用 `encode_utf8()`方法将`char`转换为 `UTF_8`字符串。
 
 ## rust中`byte string literal` 和 `string literal`的区别
@@ -2274,4 +2347,5 @@ AcqRel结合了Acquire和Release的效果，适用于需要同时读取和修改
 ### SeqCst
 
 SeqCst，或顺序一致性，提供了最强的顺序保证。它确保所有的线程看到相同顺序的操作，使用于需要全局执行顺序的场景。
+
 
